@@ -7,22 +7,17 @@ Computer Engineering Student | Python & Django Backend Developer
 ---
 
 ## 📊 My Activity
-  <div style="display: inline-block; width: 200px; vertical-align: middle;">
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true"
-      alt="GitHub Stats"
-      width="100%"
-    />
-  </div>
 
-  <div style="display: inline-block; width: 48%; vertical-align: middle;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark"
-      alt="GitHub Streak"
-      width="100%"
-    />
-  </div>
+<div align="center">
+  <img width="400" height="200"
+       src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true">
+
+  &nbsp;&nbsp;
+
+  <img width="400" height="200"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark">
 </div>
+
 ---
 
 ## 🧑‍💻 About Me

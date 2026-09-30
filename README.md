@@ -8,7 +8,7 @@ Computer Engineering Student | Python & Django Backend Developer
 
 ## 📊 My Activity
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true&cache_seconds=1)
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark&show_icons=true&count_private=true&include_all_commits=true)
 
 ---

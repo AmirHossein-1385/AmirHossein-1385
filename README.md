@@ -11,15 +11,15 @@ Computer Engineering Student | Python & Django Backend Developer
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark"
     width="400"
-    height="200"
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark"
     width="400"
-    height="200"
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark"
   />
 </div>
 ---

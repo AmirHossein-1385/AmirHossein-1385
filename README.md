@@ -7,16 +7,10 @@ Computer Engineering Student | Python & Django Backend Developer
 ---
 
 ## 📊 My Activity
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true&cache_seconds=1" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true&hide_border=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark&hide_border=true" height="195" />
+</div>
 
 ---
 

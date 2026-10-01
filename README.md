@@ -91,7 +91,7 @@ A **Django-based social platform** with user profiles, following system, posts, 
 
 A **Django-based blog platform** with content management, user authentication, and blog interactions.
 
-**Tech Stack:** `Python` · `Django` · `SQLite`
+**Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
 🔗 [View Repository](YOUR_BLOG_REPOSITORY_LINK)
 

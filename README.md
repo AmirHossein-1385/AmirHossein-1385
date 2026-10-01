@@ -47,12 +47,25 @@ developer = {
 
 ## 🛠️ Tech Stack
 
-* 🐍 Python
-* 🌐 Django
-* 🐘 PostgreSQL
-* 🗃️ SQLite
-* 🔧 Git
-* 🐙 GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" height="45">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="45">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite" height="45">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" height="45">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="45">
+</p>
 
 ---
 

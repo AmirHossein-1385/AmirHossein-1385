@@ -5,7 +5,7 @@
 Computer Engineering Student | Python & Django Backend Developer
 
 <p align="center">
-  <img src="./assets/banner.gif" width="100%">
+  <img src="./assets/coding.gif" width="100%">
 </p>
 
 ---

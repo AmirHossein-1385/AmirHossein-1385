@@ -69,6 +69,7 @@ developer = {
 
 ---
 
+
 ## 📚 Currently Learning
 
 * Django REST Framework
@@ -80,3 +81,14 @@ developer = {
 ## 📈 Languages Used in My Projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-1385\&layout=compact)
+
+## 📫 Connect With Me
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>

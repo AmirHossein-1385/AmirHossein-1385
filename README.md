@@ -4,20 +4,8 @@
 
 Computer Engineering Student | Python & Django Backend Developer
 
----
-
-## 📊 My Activity
-
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true"
-    width="360"
-  />
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark"
-    width="360"
-  />
+  <img src="./assets/banner.gif" width="100%">
 </p>
 
 ---
@@ -69,7 +57,6 @@ developer = {
 
 ---
 
-
 ## 📚 Currently Learning
 
 * Django REST Framework
@@ -78,17 +65,58 @@ developer = {
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛒 SabzShop
+
+Django-based e-commerce platform.
+
+[View Repository](YOUR_SABZSHOP_REPOSITORY_LINK)
+
+### 📱 SabzSocial
+
+Django-based social network.
+
+[View Repository](YOUR_SABZSOCIAL_REPOSITORY_LINK)
+
+### 📝 Blog
+
+Blog platform built with Django.
+
+[View Repository](YOUR_BLOG_REPOSITORY_LINK)
+
+---
+
+## 📊 My Activity
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=AmirHossein-1385&theme=github_dark&show_icons=true"
+    width="360"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHossein-1385&theme=github-dark"
+    width="360"
+  />
+</p>
+
+---
+
 ## 📈 Languages Used in My Projects
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-1385\&layout=compact)
+
+---
 
 ## 📫 Connect With Me
 
 <p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>

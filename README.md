@@ -67,23 +67,34 @@ developer = {
 
 ## 🚀 Featured Projects
 
-### 🛒 SabzShop
+### 🛒 **SabzShop**
 
-Django-based e-commerce platform.
+A **Django-based e-commerce platform** featuring product management, shopping cart, orders, discounts, user accounts, and return requests.
 
-[View Repository](YOUR_SABZSHOP_REPOSITORY_LINK)
+**Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
-### 📱 SabzSocial
+🔗 [View Repository](YOUR_SABZSHOP_REPOSITORY_LINK)
 
-Django-based social network.
+---
 
-[View Repository](YOUR_SABZSOCIAL_REPOSITORY_LINK)
+### 📱 **SabzSocial**
 
-### 📝 Blog
+A **Django-based social platform** with user profiles, following system, posts, likes, saved posts, comments, and activity tracking.
 
-Blog platform built with Django.
+**Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
-[View Repository](YOUR_BLOG_REPOSITORY_LINK)
+🔗 [View Repository](YOUR_SABZSOCIAL_REPOSITORY_LINK)
+
+---
+
+### 📝 **Blog**
+
+A **Django-based blog platform** with content management, user authentication, and blog interactions.
+
+**Tech Stack:** `Python` · `Django` · `SQLite`
+
+🔗 [View Repository](YOUR_BLOG_REPOSITORY_LINK)
+
 
 ---
 

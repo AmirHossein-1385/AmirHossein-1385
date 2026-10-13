@@ -67,10 +67,17 @@ developer = {
 
 ## 🚀 Featured Projects
 
-Shop Web Application
- Status: In Development
-A web-based shop application built with Python and Django.
-This project is currently under development. More features and improvements will be added soon.
+
+### 🛒 Shop Web Application
+
+A **Django-based e-commerce platform** designed to provide essential online shopping functionality.
+
+The project focuses on backend development, including user authentication, product management, order processing, and wallet functionality. It is currently under development, with new features and improvements being added progressively.
+
+**Tech Stack:** `Python` · `Django` · `PostgreSQL` · `JavaScript`
+
+**Status:** 🚧 In Development
+
 
 ---
 

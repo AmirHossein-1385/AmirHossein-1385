@@ -124,7 +124,7 @@ A **Django-based blog platform** with content management, user authentication, a
 
 <p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:YOUR_EMAIL">

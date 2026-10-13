@@ -87,7 +87,7 @@ A **Django-based social platform** with user profiles, following system, posts, 
 
 **Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
-🔗 [View Repository](YOUR_SABZSOCIAL_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/AmirHossein-1385/social)
 
 ---
 
@@ -97,7 +97,7 @@ A **Django-based blog platform** with content management, user authentication, a
 
 **Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
-🔗 [View Repository](YOUR_BLOG_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/AmirHossein-1385/blog)
 
 
 ---

@@ -67,13 +67,10 @@ developer = {
 
 ## 🚀 Featured Projects
 
-### 🛒 **SabzShop**
-
-A **Django-based e-commerce platform** featuring product management, shopping cart, orders, discounts, user accounts, and return requests.
-
-**Tech Stack:** `Python` · `Django` · `PostgreSQL`
-
-🔗 [View Repository](YOUR_SABZSHOP_REPOSITORY_LINK)
+Shop Web Application
+ Status: In Development
+A web-based shop application built with Python and Django.
+This project is currently under development. More features and improvements will be added soon.
 
 ---
 

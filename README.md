@@ -128,6 +128,6 @@ A **Django-based blog platform** with content management, user authentication, a
   </a>
 
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Arhn85555@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>

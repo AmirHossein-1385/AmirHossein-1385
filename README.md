@@ -71,7 +71,7 @@ developer = {
 
 A **Django-based e-commerce platform** with product listings, category browsing, search and filtering, shopping cart, user accounts, wallet system, discount codes, order management, and online payment integration.
 
-**Tech Stack:** `Python` · `Django` · `PostgreSQL`
+Tech Stack: Python · Django · PostgreSQL · HTML · CSS · JavaScript
 
 🔗 [View Repository](https://github.com/AmirHossein-1385/shop)
 
@@ -82,7 +82,7 @@ A **Django-based e-commerce platform** with product listings, category browsing,
 
 A **Django-based social platform** with user profiles, following system, posts, likes, saved posts, comments, and activity tracking.
 
-**Tech Stack:** `Python` · `Django` · `PostgreSQL`
+Tech Stack: Python · Django · PostgreSQL · HTML · CSS · JavaScript
 
 🔗 [View Repository](https://github.com/AmirHossein-1385/social)
 
@@ -92,7 +92,7 @@ A **Django-based social platform** with user profiles, following system, posts, 
 
 A **Django-based blog platform** with content management, user authentication, and blog interactions.
 
-**Tech Stack:** `Python` · `Django` · `PostgreSQL`
+Tech Stack: Python · Django · PostgreSQL · HTML · CSS
 
 🔗 [View Repository](https://github.com/AmirHossein-1385/blog)
 

@@ -62,6 +62,7 @@ developer = {
 * Django REST Framework
 * REST APIs
 * JavaScript & AJAX
+* Software Testing & Test Writing
 
 ---
 

@@ -67,16 +67,13 @@ developer = {
 
 ## 🚀 Featured Projects
 
+### 🛒 **SabzShop**
 
-### 🛒 Shop Web Application
+A **Django-based e-commerce platform** with product listings, category browsing, search and filtering, shopping cart, user accounts, wallet system, discount codes, order management, and online payment integration.
 
-A **Django-based e-commerce platform** designed to provide essential online shopping functionality.
+**Tech Stack:** `Python` · `Django` · `PostgreSQL`
 
-The project focuses on backend development, including user authentication, product management, order processing, and wallet functionality. It is currently under development, with new features and improvements being added progressively.
-
-**Tech Stack:** `Python` · `Django` · `PostgreSQL` · `JavaScript`
-
-**Status:** 🚧 In Development
+🔗 [View Repository](https://github.com/AmirHossein-1385/shop)
 
 
 ---

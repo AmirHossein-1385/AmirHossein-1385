@@ -118,7 +118,7 @@ Tech Stack: `Python` · `Django` · `PostgreSQL` · `HTML` · `CSS`
 
 ## 📈 Languages Used in My Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHossein-1385&layout=compact&theme=github_dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AmirHossein-1385&layout=compact&theme=github_dark)
 
 ---
 
